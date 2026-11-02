@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="cards.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.71535494"
+     inkscape:cx="397.00572"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1">
+      <rect
+         style="fill:#cccccc;stroke-width:0.457247"
+         id="rect1"
+         width="117.59258"
+         height="132.29167"
+         x="67.684929"
+         y="75.452057" />
+      <text
+         xml:space="preserve"
+         style="font-size:20.8009px;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:1.73341"
+         x="89.092903"
+         y="135.5284"
+         id="text1"
+         transform="scale(0.90463002,1.1054243)"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:1.73341"
+           x="89.092903"
+           y="135.5284">DEFAULT</tspan></text>
+    </g>
+  </g>
+</svg>
